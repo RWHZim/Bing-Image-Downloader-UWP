@@ -1,0 +1,1 @@
+C:\vs2017\Projects\MyBingImageDownloader\MyBingImageDownloader\MyBingImageDownloader.csproj;x86
